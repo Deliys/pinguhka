@@ -9,7 +9,7 @@
 - [ ] 3) Пройти обучение по GIT Основы https://learngitbranching.js.org/?locale=ru_RU
 
 Изучение ASP NET Core:
-- 4) Пройти fundamentals https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-7.0&tabs=windows
-- 5) Пройти https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
-- 6) Пройти https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-implementation
-- 7) Пройти Tutorial: Create a web API with ASP.NET Core https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio
+- Пройти fundamentals https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-7.0&tabs=windows
+- Пройти https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
+- Пройти https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-implementation
+- Пройти Tutorial: Create a web API with ASP.NET Core https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio
