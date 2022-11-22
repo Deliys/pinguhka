@@ -18,7 +18,7 @@ app.UseHttpsRedirection();
 
 //app.UseAuthorization();
 
-app.MapGet("/hi", () => "Idi nahui!");
+app.MapGet("/hi", () => "Idi nahui!!");
 
 app.MapDefaultControllerRoute();
 app.MapRazorPages();
